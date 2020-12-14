@@ -195,3 +195,7 @@ body {
 .signed-commit-header {
     background-color: $dropdown-bg !important;
 }
+
+div.actions-fullwidth-module, div.p-2, div.position-relative {
+    background-color: $comment-bg !important;
+}
